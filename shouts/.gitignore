@@ -1,0 +1,4 @@
+node_modules/
+shouts/db.sqlite3
+shouts/accounts/__pycache__/*
+shouts/frontend/static/frontend/main.js
